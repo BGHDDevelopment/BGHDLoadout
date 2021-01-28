@@ -1,0 +1,9 @@
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\bin\Debug\FiveMLoadout.net.dll
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\bin\Debug\FiveMLoadout.net.pdb
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\obj\Debug\FiveMLoadout.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\obj\Debug\FiveMLoadout.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\obj\Debug\FiveMLoadout.csproj.CopyComplete
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\obj\Debug\FiveMLoadout.net.dll
+C:\Users\steph\Desktop\Source\FiveMLoadoutJoin\FiveMLoadout\FiveMLoadout\obj\Debug\FiveMLoadout.net.pdb
