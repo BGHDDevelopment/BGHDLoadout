@@ -1,5 +1,5 @@
-fx_version "cerulean"
-games {"gta5"}
+fx_version 'adamant'
+games {'gta5'}
 
 author 'BGHDDevelopment'
 description 'BGHDLoadout resource.'
